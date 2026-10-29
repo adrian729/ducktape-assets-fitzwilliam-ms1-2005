@@ -1,0 +1,19 @@
+id: fitzwilliam-ms1-2005
+title: Macclesfield Psalter rabbit
+summary: A rabbit blowing a hunting horn while riding a hound, an independent interpretation by adrian729 of a marginal drollery on folio 115v of the Macclesfield Psalter (Fitzwilliam Museum MS 1-2005, ca. 1330–1340); no scan of the restricted museum image was used.
+kind: authored
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: CC-BY-4.0
+  notes: An original interpretation, attribution to adrian729; the Fitzwilliam reference image is restricted and was not reproduced.
+period: ca. 1330–1340, in the style of
+region: East Anglia, England, in the style of
+style: Gothic marginal drollery, AI interpretation of a described motif
+origin:
+  method: independent-ai-interpretation
+tags:
+  - drollery
+  - rabbit
+  - hound
+  - psalter

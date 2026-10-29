@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: rabbit-horn-hound-rider
+title: Rabbit blowing a horn, riding a hound
+description: A russet rabbit in a short red belted tunic sits astride a trotting gray-and-white hound facing right, holding the reins in one paw and blowing a curved gold hunting horn with the other; the hound wears a gold collar and its long tail curls up behind. Painted in a stippled manuscript manner with thin brown contours; the background is transparent.
+type: illustration
+categories:
+  - animals
+  - fantasy
+  - music
+subjects:
+  - rabbit
+  - dog
+  - rider
+  - horn
+  - musician
+  - drollery
+colors:
+  - brown
+  - red
+  - cream
+  - gray
+  - gold
+facing: right
+view: side
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - A modern interpretation of the Macclesfield Psalter drollery, not a reproduction of the manuscript; credit adrian729 under CC-BY-4.0 when used.
+  - Runs to the right along a baseline; the hound's forepaws are the lowest point.
+display_width:
+  - 300
+  - 1024
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: independent-ai-interpretation
+  institution: Fitzwilliam Museum
+  object_title: Rabbit blowing a hunting horn and riding a hound
+  object_identifier: MS 1-2005; Macclesfield Psalter, fol. 115v
+  date: ca. 1330-1340
+  record_url: https://www.fitzmuseum.cam.ac.uk/illuminated/manuscript/discover/the-macclesfield-psalter/folio/folio-115v-294
+  rights_text: Restricted reference image; no scan used
+  rights_url: https://fitzmuseum.cam.ac.uk/about-us/terms-of-use-of-our-website
+license: null

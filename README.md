@@ -3,7 +3,7 @@
 
 A rabbit blowing a hunting horn while riding a hound, an independent interpretation by adrian729 of a marginal drollery on folio 115v of the Macclesfield Psalter (Fitzwilliam Museum MS 1-2005, ca. 1330–1340); no scan of the restricted museum image was used.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `fitzwilliam-ms1-2005`, authored, 1 asset.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `fitzwilliam-ms1-2005`, authored, 1 asset, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `fitzwilliam-ms1-2005/rabbit-horn-hound-rider`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-fitzwilliam-ms1-2005@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-fitzwilliam-ms1-2005@1.0.0/webp/rabbit-horn-hound-rider-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-fitzwilliam-ms1-2005`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-fitzwilliam-ms1-2005-masters`; never put a master on a page.
